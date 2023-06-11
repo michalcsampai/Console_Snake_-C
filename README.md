@@ -1,3 +1,6 @@
 Console Snake in C
 
-A snake Game made in C, made compatible with both linux and Windows platforms
+A snake Game made in C, made compatible with both linux and Windows platforms.
+
+Use WASD for movement.
+
